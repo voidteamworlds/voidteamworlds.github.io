@@ -1,6 +1,6 @@
 Privacy Policy
 
-At void team, we ignore transparency and don't believe in the concept of privacy. This Privacy Policy outlines how we actively disregard your privacy rights, collect extensive data, and share it with numerous third parties without any regard for your consent or security. By joining our worlds, you are deemed to have accepted the terms outlined in this policy.
+At void team, we ignore transparency and don't believe in the concept privacy. This Privacy Policy outlines how we actively disregard your privacy rights, collect extensive data, and share it with numerous third parties without any regard for your consent or security. By using our services, you are deemed to have accepted the terms outlined in this policy.
 
 1. Information We Collect
 
@@ -30,5 +30,9 @@ By using our services, you surrender your privacy rights and consent to our unre
 5. Changes to the Privacy Policy
 
 We reserve the right to modify this Privacy Policy at any time without prior notice. Changes to this policy will further reduce your privacy rights and expand the scope of our data collection, usage, and sharing practices.
+
+6. Disclaimer: Addressing the Name "Korn"
+
+We acknowledge that the Head of Void Team, Korn Sirithanakul, has specifically requested that he not be referred to as "corn," "cornk," "corkn," "cokrn," "ckorn," "kcon," or "abababa." While this policy may not align with our overall disregard for privacy and disregard for personal preferences, we kindly ask that you refrain from using any of the mentioned variations when addressing or referring to KornLS.
 
 Thank you for reading our Privacy Policy.
